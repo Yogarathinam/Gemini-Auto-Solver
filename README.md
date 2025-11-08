@@ -85,15 +85,15 @@ Gemini responds with just:
 
 The frontend then automatically clicks the corresponding option.
 
-⚠️ Notes
+# ⚠️ Notes
 
-This project is for educational purposes only.
+**This project is for educational purposes only.**
 
-Currently, it functions only on the page I personally tested. You'll need to fine-tune the selectors based on the specific structure of the webpage you're automating.
+**Currently, it functions only on the page I personally tested. You'll need to fine-tune the selectors based on the specific structure of the webpage you're automating.**
 
-Do not use this to automate or cheat in any exam, assessment, or restricted environment.
+**Do not use this to automate or cheat in any exam, assessment, or restricted environment.**
 
-Use it only for practice or personal learning automation.
+**Use it only for practice or personal learning automation.**
 
 📁 File Overview
 File	Description
