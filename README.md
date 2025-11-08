@@ -95,20 +95,21 @@ The frontend then automatically clicks the corresponding option.
 
 **Use it only for practice or personal learning automation.**
 
-📁 File Overview
+# 📁 File Overview
 File	Description
 backend/server.py	Flask backend handling Gemini API calls
 frontend/autoSolver.js	JS script that runs in the browser console
 .gitignore	Ignores cache, venv, and keys
 README.md	Documentation (you’re reading it)
-🧑‍💻 Author
 
-Your Name
+
+# 🧑‍💻 Author
+Yogarathinam
 💻[ GitHub Profile](https://github.com/Yogarathinam)
 
-🌐 Built with ❤️ for fun & learning automation.
+# 🌐 Built with ❤️ for fun & learning automation.
 
-📜 License
+# 📜 License
 
 MIT License © 2025 [Yogarathinam]
 
